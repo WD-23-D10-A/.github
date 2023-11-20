@@ -6,3 +6,4 @@
 - [Versioning - Git Commands](./BDL_Day04_Versioning01_Basics_Slides.pdf)
 - [Versioning - Git Branches](./BDL_Day05_Versioning02_Branches_Slides.pdf)
 - [Publishing - Github](./BDL_Day06_Publishing_Slides.pdf)
+- [Collaborating](./BDL_Day07_Collaborating_Slides.pdf)
